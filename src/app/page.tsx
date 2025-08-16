@@ -7,15 +7,17 @@ export default function Home() {
     <div className='text-primary w-full min-h-screen flex flex-col justify-center items-center'>
       <div className='flex flex-col justify-center items-center text-left px-5 w-[300px] md:w-full'>
         <div className='text-left'>
-          <div lang='en' className='text-4xl md:text-5xl'>
+          <div className='text-4xl md:text-5xl lg:text-6xl'>
             {homeText.title.map((line, index) => (
               <div key={index}>{line}</div>
             ))}
           </div>
           <div className='flex items-center gap-3 mt-8 md:mt-6'>
-            <h2 className='text-xl md:text-2xl'>{homeText.subTitle}</h2>
+            <h2 className='text-xl md:text-3xl lg:text-4xl'>
+              {homeText.subTitle}
+            </h2>
             <Link href='/question'>
-              <BsArrowRight className='w-8 h-8' />
+              <BsArrowRight className='w-7 h-7 md:w-9 md:h-9' />
             </Link>
           </div>
         </div>
