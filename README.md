@@ -1,7 +1,7 @@
 # 🎵 Soul-Sync : K-pop Demon Hunters
 넷플릭스 오리지널 애니메이션 영화 **케이팝 데몬 헌터스**를 바탕으로 질문에 답하면 나와 맞는 케데헌 캐릭터를 찾아주는 서비스입니다.
 
-👉 [배포 주소](https://soul-sync-chi.vercel.app/)  
+👉 [Soul-Sync](https://soul-sync-chi.vercel.app/)  
 ⏰ 개발 기간: &nbsp; 2025. 07. 28 ~ 2025. 08. (진행 중)
 
 ---
