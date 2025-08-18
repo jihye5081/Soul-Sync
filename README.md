@@ -25,7 +25,6 @@ public
 ├── images(이미지 파일 관리 폴더)
 src
 ├── app
-│   ├── api(백엔드 api 폴더)
 │   ├── page.tsx()
 │   ├── layout.tsx()
 │   ├── global.css()
